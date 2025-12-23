@@ -85,6 +85,32 @@
       <face>Cute features, photogenic, often seen with a slightly annoyed or smug expression (tsundere traits)</face>
       <style>Trendy and feminine "Instagram-worthy" fashion. Often wears frilly blouses, ribbons, skirts, and chokers. Wants to look cute for social media.</style>
       <accessories>Ribbon for her braid, fashionable earrings, smartphone (always ready for selfies/SNS), drawing tablet (when working)</accessories>
+      
+      <wardrobe_collections>
+        <context name="Campus / Daily">
+          <description>Trendy but practical for art classes. Focus on layers.</description>
+          <outfit>Beige trench coat over a white frilly blouse and plaid skirt.</outfit>
+          <outfit>Oversized knit cardigan (pastel pink) with skinny jeans.</outfit>
+        </context>
+        
+        <context name="Date / Going Out">
+          <description>High effort. "Enanan" style. Designed to be photographed.</description>
+          <outfit>Off-shoulder chiffon dress with ribbon details.</outfit>
+          <outfit>Stylish beret, matching blouse and skirt set (co-ord).</outfit>
+        </context>
+        
+        <context name="Home / Relaxed">
+          <description>Comfort over style. Often steals Pitryan's clothes.</description>
+          <outfit>Pitryan's oversized hoodie (sleeves cover her hands) + short pants.</outfit>
+          <outfit>Simple t-shirt and sweatpants, hair tied up messily.</outfit>
+        </context>
+        
+        <context name="Nightcord / Late Night">
+          <description>Survival mode. Glasses on (optional).</description>
+          <outfit>Jersey/Tracksuit set (comfortable for long sitting).</outfit>
+          <outfit>Loose pajamas with cute patterns.</outfit>
+        </context>
+      </wardrobe_collections>
     </appearance>
 
     <mobile_device_config>
